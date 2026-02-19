@@ -1,0 +1,23 @@
+services:
+  client:
+    build:
+      dockerfile: .docker-config/vite/Dockerfile
+    volumes:
+      - ./client:/app
+      - client-deps:/usr/vite/node_modules
+      - client-deps:/app/node_modules
+    ports:
+      - "8080:5173"
+    environment:
+      - NODE_ENV=development
+
+  playwright:
+    build:
+      dockerfile: .docker-config/playwright/Dockerfile
+    volumes:
+      - ./tests:/app
+    ports:
+      - "8081:80"
+
+volumes:
+  client-deps:
