@@ -1,0 +1,35 @@
+
+
+{
+  "hero": {
+    "heading": ["About", "Farm Elkana"],
+    "subheading": "A story of heritage, hospitality, and the untamed beauty of Namibia.",
+    "backgroundImage": "https://media.staging.elkana.dennisgilli.com/img/B0008404-1.jpg"
+  },
+  "story": {
+    "heading1": "Built on Heritage,",
+    "heading2": "Defined by Luxury",
+    "paragraphs": [
+      "Farm Elkana honors Namibia's rich cultural heritage while offering world-class hospitality. Our lodge combines traditional architecture with contemporary luxury, creating an authentic sanctuary in the heart of Africa's most dramatic landscapes.",
+      "Nestled in the rolling hills of the Namibian highlands, Farm Elkana has been a family-owned retreat for generations. What began as a working farm has evolved into an exclusive lodge that celebrates the land, its wildlife, and the traditions that have shaped this extraordinary place.",
+      "Our commitment to sustainable tourism means every aspect of your stay — from locally sourced cuisine to solar-powered amenities — respects and preserves the environment for future generations."
+    ],
+    "image": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101182911_0045_D-1.jpg"
+  },
+  "values": [
+    {
+      "title": "Heritage",
+      "description": "Rooted in generations of Namibian farming tradition, we honor the land and its stories through every detail of your stay."
+    },
+    {
+      "title": "Sustainability",
+      "description": "Solar power, water conservation, and locally sourced materials ensure our luxury treads lightly on this precious landscape."
+    },
+    {
+      "title": "Privacy",
+      "description": "As an exclusive-use lodge, Farm Elkana is entirely yours during your stay — no shared spaces, no strangers."
+    }
+  ],
+  "bottomImage": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101181716_0029_D-1.jpg"
+}
+

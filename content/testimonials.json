@@ -1,0 +1,24 @@
+
+{
+  "section": {
+    "heading": "What Our Guests Say",
+    "description": "Every stay creates memories as vast as the landscape itself. Here's what our guests have shared about their Farm Elkana experience."
+  },
+  "items": [
+    {
+      "quote": "An extraordinary experience that blended luxury, adventure, and authentic African hospitality. From sunrise dune walks to starlit dinners, every moment was magical.",
+      "author": "Sarah Mitchell",
+      "experience": "South Africa"
+    },
+    {
+      "quote": "The lodge exceeded all expectations. Watching elephants at the waterhole from our private deck, exploring ancient rock art, and the incredible stargazing made this unforgettable.",
+      "author": "James Anderson",
+      "experience": "United Kingdom"
+    },
+    {
+      "quote": "Farm Elkana is a sanctuary of peace and beauty. The staff's attention to detail, the exquisite cuisine, and the breathtaking landscapes created memories we'll treasure forever.",
+      "author": "Emma Thompson",
+      "experience": "Germany"
+    }
+  ]
+}

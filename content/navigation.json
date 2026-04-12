@@ -1,0 +1,48 @@
+
+{
+  "siteName": "Farm Elkana",
+  "logoUrl": "https://cdn.magicpatterns.com/uploads/fj6DzLS7iAgKDkqAkWeKiX/elkana-logo.svg",
+  "leftNavItems": [
+    {
+      "label": "Accommodations",
+      "href": "/#accommodations"
+    },
+    {
+      "label": "Experiences",
+      "href": "/experiences"
+    },
+    {
+      "label": "Wheater",
+      "href": "https://www.accuweather.com/en/na/hochfeld/244945/weather-forecast/244945?type=locality&city=hochfeld",
+      "external": true
+    }
+  ],
+  "rightNavItems": [
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Book Now",
+      "href": "https://site.nightsbridge.com/"
+    }
+  ],
+  "socialLinks": [
+    {
+      "platform": "Facebook",
+      "url": "#"
+    },
+    {
+      "platform": "Instagram",
+      "url": "#"
+    },
+    {
+      "platform": "YouTube",
+      "url": "#"
+    }
+  ]
+}

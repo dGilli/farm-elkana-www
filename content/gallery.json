@@ -1,0 +1,102 @@
+
+
+{
+  "section": {
+    "heading": "Farm Elkana in Frames",
+    "description": "Discover moments of tranquility—where luxury meets wilderness, golden dunes meet endless skies, and every sunset tells a story.",
+    "linkText": "View Gallery",
+    "linkUrl": "/gallery"
+  },
+  "page": {
+    "hero": {
+      "heading": "Gallery",
+      "subheading": "A visual journey through Farm Elkana and the Namibian wilderness.",
+      "backgroundImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=2574&auto=format&fit=crop"
+    }
+  },
+  "homeImages": [
+    {
+      "src": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?q=80&w=800&auto=format&fit=crop",
+      "alt": "Lodge guest"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1516426122078-c23e76319801?q=80&w=800&auto=format&fit=crop",
+      "alt": "Golden sunset"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260102200948_0185_D-1.jpg",
+      "alt": "Wildlife"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008363-1.jpg",
+      "alt": "Natural landscape"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008404-1.jpg",
+      "alt": "Lodge exterior"
+    }
+  ],
+  "images": [
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008358-1.jpg",
+      "alt": "1"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008362-1_1.jpg",
+      "alt": "2"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008362-1.jpg",
+      "alt": "3"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260102200948_0185_D-1.jpg",
+      "alt": "4"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008363-1.jpg",
+      "alt": "5"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008368-1.jpg",
+      "alt": "6"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260102190942_0065_D-1.jpg",
+      "alt": "15"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008373-1.jpg",
+      "alt": "7"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008382-1.jpg",
+      "alt": "8"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008385-1.jpg",
+      "alt": "9"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008404-1.jpg",
+      "alt": "10"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101181716_0029_D-1.jpg",
+      "alt": "11"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101182807_0037_D-1.jpg",
+      "alt": "12"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/B0008354-1.jpg",
+      "alt": "13"
+    },
+    {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101182911_0045_D-1.jpg",
+      "alt": "14"
+    }
+  ]
+}
+

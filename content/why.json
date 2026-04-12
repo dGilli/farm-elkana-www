@@ -1,0 +1,35 @@
+
+
+{
+  "section": {
+    "heading": "Why Farm Elkana?",
+    "description": "Every stay is crafted to your preferences—whether you seek adventure, relaxation, or cultural immersion in Africa's most stunning landscape."
+  },
+  "slides": [
+    {
+      "id": "01",
+      "title": "Unmatched Location",
+      "description": "Nestled in Namibia's most breathtaking landscapes, Farm Elkana offers direct access to iconic destinations. Wake up to sunrise over rolling hills, witness wildlife at nearby waterholes, and experience the raw beauty of Africa's untamed wilderness from your doorstep.",
+      "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=2000&auto=format&fit=crop"
+    },
+    {
+      "id": "02",
+      "title": "Curated Experiences",
+      "description": "We go beyond accommodation—we create memories. Our experiences showcase Namibia's wonders: sunrise dune climbs, wildlife safaris, stargazing in the clearest skies, and encounters with ancient cultures. Every moment is tailored to your interests and pace.",
+      "image": "https://images.unsplash.com/photo-1489392191049-fc10c97e64b6?q=80&w=2000&auto=format&fit=crop"
+    },
+    {
+      "id": "03",
+      "title": "Sustainable Luxury",
+      "description": "Experience world-class comfort while treading lightly on the land. Our eco-conscious design harmonizes with the environment, using solar power, water conservation, and locally sourced materials. Luxury that respects and preserves the land for generations to come.",
+      "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?q=80&w=2000&auto=format&fit=crop"
+    },
+    {
+      "id": "04",
+      "title": "Personalized Service",
+      "description": "From the moment you arrive, our dedicated team ensures every detail exceeds expectations. Whether arranging private excursions, crafting custom menus, or simply anticipating your needs, we deliver attentive, warm hospitality that makes you feel truly at home.",
+      "image": "https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?q=80&w=2000&auto=format&fit=crop"
+    }
+  ]
+}
+

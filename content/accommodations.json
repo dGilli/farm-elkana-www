@@ -1,0 +1,65 @@
+
+{
+  "section": {
+    "heading": "Luxury Accommodations",
+    "description": "Choose from our exclusive suites and villas, each offering panoramic views, private terraces, and world-class amenities for an unforgettable stay."
+  },
+  "rooms": [
+    {
+      "id": "01",
+      "name": "Eland Suite (Main&nbsp;unit)",
+      "guests": 6,
+      "beds": 3,
+      "nights": "3N",
+      "price": "4.5k",
+      "images": [
+        {
+          "url": "https://media.staging.elkana.dennisgilli.com/img/B0008354-1.jpg",
+          "alt": "exterior"
+        },
+        {
+          "url": "https://media.staging.elkana.dennisgilli.com/img/B0008358-1.jpg",
+          "alt": "interior"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "name": "Kudu Suite",
+      "disclaimer": "Available as an add-on when booking the Eland Suite",
+      "guests": 4,
+      "beds": 2,
+      "nights": "3N",
+      "price": "2.5k",
+      "images": [
+        {
+          "url": "https://media.staging.elkana.dennisgilli.com/img/B0008362-1.jpg",
+          "alt": "exterior"
+        },
+        {
+          "url": "https://media.staging.elkana.dennisgilli.com/img/B0008373-1.jpg",
+          "alt": "interior"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "name": "Oryx Suite",
+      "disclaimer": "Available as an add-on when booking the Eland Suite",
+      "guests": 4,
+      "beds": 2,
+      "nights": "3N",
+      "price": "2.5k",
+      "images": [
+        {
+          "url": "https://media.staging.elkana.dennisgilli.com/img/B0008363-1.jpg",
+          "alt": "exterior"
+        },
+        {
+          "url": "https://media.staging.elkana.dennisgilli.com/img/B0008385-1.jpg",
+          "alt": "interior"
+        }
+      ]
+    }
+  ]
+}

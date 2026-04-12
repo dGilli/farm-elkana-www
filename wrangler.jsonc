@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "farm-elkana",
+  // Set this to today's date
+  "compatibility_date": "2026-04-12",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "not_found_handling": "single-page-application",
+    // Route /img/* through the worker before checking static assets
+    "run_worker_first": ["/img/*"]
+  },
+  "main": "./worker/index.ts"
+}

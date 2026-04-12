@@ -1,0 +1,52 @@
+
+{
+  "hero": {
+    "heading": ["A Journey Through", "Nature and Wilderness"],
+    "subheading": "Experience Namibia's breathtaking landscapes from our exclusive luxury lodge, where untamed nature meets modern comfort and unforgettable adventures.",
+    "backgroundImage": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260102190942_0065_D-1.jpg"
+    "backgroundImage": {
+        "src": "/img/DJI_20260102190942_0065_D-1.jpg",
+        "sources": [
+            {
+                "srcSet": [
+                    "/img/DJI_20260102190942_0065_D-1_400w.jpg 400w",
+                    "/img/DJI_20260102190942_0065_D-1_800w.jpg 800w",
+                    "/img/DJI_20260102190942_0065_D-1_1600w.jpg 1600w",
+                    "/img/DJI_20260102190942_0065_D-1_3200w.jpg 3200w",
+                    "/img/DJI_20260102190942_0065_D-1_4800w.jpg 4800w"
+                ],
+                "media": "image/jpeg"
+            },
+            {
+                "srcSet": [
+                    "/img/DJI_20260102190942_0065_D-1_400w.avif 400w",
+                    "/img/DJI_20260102190942_0065_D-1_800w.avif 800w",
+                    "/img/DJI_20260102190942_0065_D-1_1600w.avif 1600w",
+                    "/img/DJI_20260102190942_0065_D-1_3200w.avif 3200w",
+                    "/img/DJI_20260102190942_0065_D-1_4800w.avif 4800w"
+                ],
+                "media": "image/avif"
+            }
+        ],
+        "alt": "A drone shot of the three elkana units and the sunset view",
+        "focalPoint": "bottom"
+    }
+  },
+  "aboutUs": {
+    "heading1": "Built on Heritage,",
+    "heading2": "Defined by Luxury",
+    "body": "Farm Elkana honors Namibia's rich cultural heritage while offering world-class hospitality. Our lodge combines traditional architecture with contemporary luxury, creating an authentic sanctuary in the heart of Africa's most dramatic landscapes.",
+    "linkText": "Our Story",
+    "linkUrl": "/about",
+    "images": [
+      {
+        "url": "https://media.staging.elkana.dennisgilli.com/img/B0008368-1.jpg",
+        "alt": "Farm Elkana detail"
+      },
+      {
+        "url": "https://media.staging.elkana.dennisgilli.com/img/B0008382-1.jpg",
+        "alt": "Namibian landscape"
+      }
+    ]
+  }
+}

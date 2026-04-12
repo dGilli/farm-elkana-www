@@ -1,0 +1,61 @@
+
+{
+  "section": {
+    "heading1": "Explore Our",
+    "heading2": "Experiences",
+    "description": "From complete privacy to self-guided game drives and outdoor cooking under the stars. Discover what makes Farm Elkana unique.",
+    "linkText": "View All",
+    "linkUrl": "/experiences"
+  },
+  "page": {
+    "hero": {
+      "heading": ["Experiences at", "Farm Elkana"],
+      "subheading": "Discover the untamed beauty of Namibia through our curated adventures and cultural encounters.",
+      "backgroundImage": "https://images.unsplash.com/photo-1523805009345-7448845a9e53?q=80&w=2000&auto=format&fit=crop"
+    }
+  },
+  "items": [
+    {
+      "id": "01",
+      "slug": "absolute-privacy",
+      "title": "Absolute Privacy",
+      "name": "Absolute Privacy",
+      "description": "Farm Elkana offers an exclusive, private retreat where you and your group are the only guests. No shared spaces, no strangers — just you, the wilderness, and complete tranquility. Every corner of the lodge is yours to enjoy at your own pace.",
+      "highlights": [
+        "Exclusive use of the entire property",
+        "No other guests during your stay",
+        "Private pool, lounge, and outdoor areas",
+        "Personalized schedule — no fixed meal times"
+      ],
+      "image": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101182911_0045_D-1.jpg"
+    },
+    {
+      "id": "02",
+      "slug": "diy-game-drives",
+      "title": "DIY Game Drives",
+      "name": "DIY Game Drives",
+      "description": "Take the wheel and explore the reserve at your own pace. Our self-guided game drive routes wind through diverse habitats where you can spot a variety of Namibian wildlife. Maps, tips, and binoculars provided — the adventure is yours to shape.",
+      "highlights": [
+        "Self-guided routes through the reserve",
+        "Spot oryx, kudu, springbok, and more",
+        "Maps and wildlife guides provided",
+        "Drive at sunrise or sunset for the best sightings"
+      ],
+      "image": "https://images.unsplash.com/photo-1516426122078-c23e76319801?q=80&w=1200&auto=format&fit=crop"
+    },
+    {
+      "id": "03",
+      "slug": "braai-pizza",
+      "title": "Braai & Pizza Nights",
+      "name": "Braai & Pizza Nights",
+      "description": "Experience the heart of Namibian hospitality with our outdoor braai and wood-fired pizza setup. Gather around the fire pit under a canopy of stars, grill your own cuts, and enjoy freshly baked pizza straight from the oven — a true farm-to-table experience.",
+      "highlights": [
+        "Traditional Namibian braai experience",
+        "Wood-fired pizza oven",
+        "Premium local cuts and fresh ingredients",
+        "Outdoor dining under the stars"
+      ],
+      "image": "https://media.staging.elkana.dennisgilli.com/img/B0008413-1.jpg"
+    }
+  ]
+}
