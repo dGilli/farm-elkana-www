@@ -7,7 +7,7 @@
   },
   "links": {
     "lodge": [
-      { "label": "About Us", "href": "/about" },
+      { "label": "Our Story", "href": "/our-story" },
       { "label": "Accommodations", "href": "/#accommodations" },
       { "label": "Experiences", "href": "/experiences" },
       { "label": "Gallery", "href": "/gallery" }

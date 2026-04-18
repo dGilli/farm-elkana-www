@@ -3,23 +3,27 @@
 {
   "hero": {
     "heading": ["About", "Farm Elkana"],
-    "subheading": "A story of heritage, hospitality, and the untamed beauty of Namibia.",
+    "subheading": "",
     "backgroundImage": "https://media.staging.elkana.dennisgilli.com/img/B0008404-1.jpg"
   },
   "story": {
-    "heading1": "Built on Heritage,",
-    "heading2": "Defined by Luxury",
+    "heading1": "Defined",
+    "heading2": "by Luxury",
     "paragraphs": [
-      "Farm Elkana honors Namibia's rich cultural heritage while offering world-class hospitality. Our lodge combines traditional architecture with contemporary luxury, creating an authentic sanctuary in the heart of Africa's most dramatic landscapes.",
-      "Nestled in the rolling hills of the Namibian highlands, Farm Elkana has been a family-owned retreat for generations. What began as a working farm has evolved into an exclusive lodge that celebrates the land, its wildlife, and the traditions that have shaped this extraordinary place.",
-      "Our commitment to sustainable tourism means every aspect of your stay — from locally sourced cuisine to solar-powered amenities — respects and preserves the environment for future generations."
+        "Elkana a farm bought with one desire only, to make you feel as an owner of a peace of land in Namiba.",
+        "The self-catering luxury lodge was build with a purpose to make your stay an once in a lifetime experience. During your stay, the entire property is yours alone—no other guests and no on-site staff—allowing for complete privacy and an authentic, uninterrupted escape into nature.",
+        "Planning your grocery shopping, knowing that you will have to plan for the next few days without the opportunity to quickly run to the store will give you the authentic feeling of how Namibian Farmers have to plan there once in a week grocery shopping. A little tip from our side, don't forget to buy your sundowner drink. The lodge is fully equipped with everything you need, including a fridge, oven, crockery, cutlery, glassware, wine glasses, as well as a pizza oven and outdoor barbecue area, ensuring stress free cooking whilst enjoying a breath taking few.",
+        "Elkana holds different Namibia antelopes, additionally giraffes and abundant birdlife that can be observed from the comfort of your terrace as an nearby waterhole offers the opportunity for wildlife to gather around. Or cool of in the swimming pool with breath-taking view over the open planes of the farm.",
+        "Remember to keep the doors closed, all sliding dores have extra goose dors that will help to keep the insects and oser small wildlife out and the fress air in.",
+        "For your own comfort, please keep all doors closed. All sliding doors are fitted with additional gauze doors, that will keep insects and small wildlife out while you can still enjoy the fresh breeze coming in.",
+        "A visite on Elkana Farm is a rare opertunity to feel at home, far away from home."
     ],
     "image": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101182911_0045_D-1.jpg"
   },
   "values": [
     {
-      "title": "Heritage",
-      "description": "Rooted in generations of Namibian farming tradition, we honor the land and its stories through every detail of your stay."
+      "title": "Nature & Wildlife",
+      "description": "Free-roaming wildlife and breathtaking sunsets, Namibia's untamed wilderness is right at your doorstep."
     },
     {
       "title": "Sustainability",
@@ -30,6 +34,9 @@
       "description": "As an exclusive-use lodge, Farm Elkana is entirely yours during your stay — no shared spaces, no strangers."
     }
   ],
-  "bottomImage": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101181716_0029_D-1.jpg"
+  "bottomImage": {
+      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101181716_0029_D-1.jpg",
+      "focalPoint": "bottom"
+  }
 }
 

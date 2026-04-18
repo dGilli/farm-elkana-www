@@ -10,11 +10,6 @@
     {
       "label": "Experiences",
       "href": "/experiences"
-    },
-    {
-      "label": "Wheater",
-      "href": "https://www.accuweather.com/en/na/hochfeld/244945/weather-forecast/244945?type=locality&city=hochfeld",
-      "external": true
     }
   ],
   "rightNavItems": [
@@ -23,8 +18,8 @@
       "href": "/gallery"
     },
     {
-      "label": "About",
-      "href": "/about"
+      "label": "Our Story",
+      "href": "/our-story"
     },
     {
       "label": "Book Now",
