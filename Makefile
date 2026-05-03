@@ -1,13 +1,13 @@
 PROJECT_NAME := farm-elkana-www
-APP_DIR := client
-LINK_FILES := package.json \
-		 	  package-lock.json \
-		      vite.config.ts \
-		      public \
-		      src/content \
-			  wrangler.jsonc \
-			  worker \
-			  .wrangler
+APP_DIR      := client
+LINK_FILES   := package.json \
+		 	    package-lock.json \
+		        vite.config.ts \
+		        public \
+		        src/content \
+			    wrangler.jsonc \
+			    worker \
+			    .wrangler
 
 # ==================================================================================== #
 # HELPERS
@@ -32,9 +32,9 @@ no-dirty:
 ## QUALITY CONTROL
 # ==================================================================================== #
 
-## audit: run quality control checks (unimplemented!)
+## audit: run quality control checks
 .PHONY: audit
-audit: #test
+audit: test
 	@$(foreach d,$(APP_DIR) tests,echo "Auditing $(d):";npm --prefix $(d) audit; npm --prefix $(d) audit signatures;)
 
 ## test: run all tests
@@ -42,7 +42,7 @@ audit: #test
 test:
 	npm --prefix tests install
 	npx --prefix tests playwright install
-	BASE_URL=http://localhost:8787 npx --prefix tests playwright test
+	cd tests && BASE_URL=$${url:-http://localhost:5173} SKIP_PROJECTS="$(skip)" npx playwright test $(args)
 
 ## test/cover: run all tests and display coverage (unimplemented!)
 .PHONY: test/cover
@@ -56,7 +56,7 @@ test/cover:
 ## clean: clean installed dependencies and build artifacts
 .PHONY: clean
 clean: confirm
-	rm -r client/node_modules client/dist
+	rm -r client/node_modules client/dist test/node_modules
 
 ## build: build the application
 .PHONY: build

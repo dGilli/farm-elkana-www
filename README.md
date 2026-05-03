@@ -14,11 +14,6 @@ Requirements:
 
 We're using a Makefile and the built-in make utility to create a simple time saving command line interface. You can run `make help` from terminal to get a list of available commands.
 
-<<<<<<< HEAD
-## Updating the Client
-
-The client-side frontend code is developed in a separate repo. The `make update` command pull in the code and creates symlinks that overwrite the necessary files so the frontend application can run in Cloudflare Workers. Run it whenever the client-side code changes to keep the Worker in sync.
-=======
 ## Running Tests
 
 The `make test` command accepts three optional variables:
@@ -26,7 +21,6 @@ The `make test` command accepts three optional variables:
 * `url`: Base URL the dev server is served from (e.g. `url=http://localhost:5174`)
 * `skip`: Comma-separated list of project names to exclude (e.g. `skip="webkit,Mobile Safari"`).
 * `args`: Extra flags forwarded directly to `playwright test` (e.g. `args="--update-snapshots"`).
->>>>>>> ec36cd6 (fixup! fixup! update readme)
 
 ## Image Processing
 
