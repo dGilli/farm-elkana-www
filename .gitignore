@@ -1,0 +1,4 @@
+media/
+todo*
+.DS_Store
+.env
