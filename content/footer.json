@@ -18,12 +18,35 @@
       { "label": "Braai & Pizza", "href": "/experiences#braai-pizza" }
     ],
     "legal": [
-      { "label": "Privacy Policy", "href": "#" },
-      { "label": "Cookie Policy", "href": "#" },
-      { "label": "Terms and Conditions", "href": "#" }
     ]
   },
   "copyright": "Farm Elkana. All Rights Reserved.",
-  "bottomImage": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?q=80&w=2000&auto=format&fit=crop"
+  "bottomImage": {
+      "src": "/img/DJI_20260323190417_0305_D-2_3200w.jpg",
+      "sources": [
+          {
+              "srcSet": [
+                  "/img/DJI_20260323190417_0305_D-2_400w.jpg 400w",
+                  "/img/DJI_20260323190417_0305_D-2_800w.jpg 800w",
+                  "/img/DJI_20260323190417_0305_D-2_1600w.jpg 1600w",
+                  "/img/DJI_20260323190417_0305_D-2_3200w.jpg 3200w",
+                  "/img/DJI_20260323190417_0305_D-2_4800w.jpg 4800w"
+              ],
+              "media": "image/jpg"
+          },
+          {
+              "srcSet": [
+                  "/img/DJI_20260323190417_0305_D-2_400w.avif 400w",
+                  "/img/DJI_20260323190417_0305_D-2_800w.avif 800w",
+                  "/img/DJI_20260323190417_0305_D-2_1600w.avif 1600w",
+                  "/img/DJI_20260323190417_0305_D-2_3200w.avif 3200w",
+                  "/img/DJI_20260323190417_0305_D-2_4800w.avif 4800w"
+              ],
+              "media": "image/avif"
+          }
+      ],
+      "alt": "",
+      "focalPoint": "center 60%"
+  }
 }
 

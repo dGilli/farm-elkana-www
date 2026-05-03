@@ -27,7 +27,30 @@
         "Private pool, lounge, and outdoor areas",
         "Personalized schedule — no fixed meal times"
       ],
-      "image": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101182911_0045_D-1.jpg"
+      "image": {
+          "src": "/img/_CLB1691-2-EditWEB_400w.jpg",
+          "sources": [
+              {
+                  "srcSet": [
+                      "/img/_CLB1691-2-EditWEB_200w.jpg 200w",
+                      "/img/_CLB1691-2-EditWEB_400w.jpg 400w",
+                      "/img/_CLB1691-2-EditWEB_800w.jpg 800w",
+                      "/img/_CLB1691-2-EditWEB_1600w.jpg 1600w"
+                  ],
+                  "media": "image/jpg"
+              },
+              {
+                  "srcSet": [
+                      "/img/_CLB1691-2-EditWEB_200w.avif 200w",
+                      "/img/_CLB1691-2-EditWEB_400w.avif 400w",
+                      "/img/_CLB1691-2-EditWEB_800w.avif 800w",
+                      "/img/_CLB1691-2-EditWEB_1600w.avif 1600w"
+                  ],
+                  "media": "image/avif"
+              }
+          ],
+          "alt": ""
+      }
     },
     {
       "id": "02",

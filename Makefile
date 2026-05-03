@@ -77,6 +77,12 @@ preview:
 ## OPERATIONS
 # ==================================================================================== #
 
+## media/transform: transform src image to all widths and formats
+.PHONY: media/transform
+media/transform:
+	@cd scripts && $(foreach w,$(widths),$(foreach f,$(formats),\
+		./image-transform.sh $(PWD)/$(src) $(w) $(f) &&)) true
+
 ## push: push changes to the remote Git repository
 .PHONY: push
 push: confirm audit no-dirty

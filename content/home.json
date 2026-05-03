@@ -33,8 +33,28 @@
         "alt": "Farm Elkana detail"
       },
       {
-        "url": "https://media.staging.elkana.dennisgilli.com/img/B0008382-1.jpg",
-        "alt": "Namibian landscape"
+          "src": "/img/_CLB1742-HDR-2-EditWEB_600w.jpg",
+          "sources": [
+              {
+                  "srcSet": [
+                      "/img/_CLB1742-HDR-2-EditWEB_300w.jpg 300w",
+                      "/img/_CLB1742-HDR-2-EditWEB_600w.jpg 600w",
+                      "/img/_CLB1742-HDR-2-EditWEB_1200w.jpg 1200w",
+                      "/img/_CLB1742-HDR-2-EditWEB_2400w.jpg 2400w"
+                  ],
+                  "media": "image/jpg"
+              },
+              {
+                  "srcSet": [
+                      "/img/_CLB1742-HDR-2-EditWEB_300w.avif 300w",
+                      "/img/_CLB1742-HDR-2-EditWEB_600w.avif 600w",
+                      "/img/_CLB1742-HDR-2-EditWEB_1200w.avif 1200w",
+                      "/img/_CLB1742-HDR-2-EditWEB_2400w.avif 2400w"
+                  ],
+                  "media": "image/avif"
+              }
+          ],
+          "alt": ""
       }
     ]
   }

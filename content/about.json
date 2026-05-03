@@ -4,7 +4,32 @@
   "hero": {
     "heading": ["About", "Farm Elkana"],
     "subheading": "",
-    "backgroundImage": "https://media.staging.elkana.dennisgilli.com/img/B0008404-1.jpg"
+    "backgroundImage": {
+        "src": "/img/_CLB1774-HDR-2-EditWEB_3200w.jpg",
+        "sources": [
+            {
+                "srcSet": [
+                    "/img/_CLB1774-HDR-2-EditWEB_400w.jpg 400w",
+                    "/img/_CLB1774-HDR-2-EditWEB_800w.jpg 800w",
+                    "/img/_CLB1774-HDR-2-EditWEB_1600w.jpg 1600w",
+                    "/img/_CLB1774-HDR-2-EditWEB_3200w.jpg 3200w",
+                    "/img/_CLB1774-HDR-2-EditWEB_4800w.jpg 4800w"
+                ],
+                "media": "image/jpg"
+            },
+            {
+                "srcSet": [
+                    "/img/_CLB1774-HDR-2-EditWEB_400w.avif 400w",
+                    "/img/_CLB1774-HDR-2-EditWEB_800w.avif 800w",
+                    "/img/_CLB1774-HDR-2-EditWEB_1600w.avif 1600w",
+                    "/img/_CLB1774-HDR-2-EditWEB_3200w.avif 3200w",
+                    "/img/_CLB1774-HDR-2-EditWEB_4800w.avif 4800w"
+                ],
+                "media": "image/avif"
+            }
+        ],
+        "alt": ""
+    }
   },
   "story": {
     "heading1": "Defined",
@@ -35,8 +60,30 @@
     }
   ],
   "bottomImage": {
-      "src": "https://media.staging.elkana.dennisgilli.com/img/DJI_20260101181716_0029_D-1.jpg",
-      "focalPoint": "bottom"
+      "src": "/img/_CLB1663-2-HDR-EditWEB_1200w.jpg",
+      "sources": [
+          {
+              "srcSet": [
+                  "/img/_CLB1663-2-HDR-EditWEB_400w.jpg 300w",
+                  "/img/_CLB1663-2-HDR-EditWEB_800w.jpg 600w",
+                  "/img/_CLB1663-2-HDR-EditWEB_1600w.jpg 1200w",
+                  "/img/_CLB1663-2-HDR-EditWEB_3200w.jpg 2400w",
+                  "/img/_CLB1663-2-HDR-EditWEB_4800w.jpg 4800w"
+              ],
+              "media": "image/jpg"
+          },
+          {
+              "srcSet": [
+                  "/img/_CLB1663-2-HDR-EditWEB_400w.avif 300w",
+                  "/img/_CLB1663-2-HDR-EditWEB_800w.avif 600w",
+                  "/img/_CLB1663-2-HDR-EditWEB_1600w.avif 1200w",
+                  "/img/_CLB1663-2-HDR-EditWEB_3200w.avif 2400w",
+                  "/img/_CLB1663-2-HDR-EditWEB_4800w.avif 4800w"
+              ],
+              "media": "image/avif"
+          }
+      ],
+      "alt": ""
   }
 }
 
