@@ -26,7 +26,7 @@ confirm:
 
 .PHONY: no-dirty
 no-dirty:
-	@test -z "$(shell git status --porcelain)"
+	@test -z "$(shell git status --ignore-submodules --porcelain)"
 
 # ==================================================================================== #
 ## QUALITY CONTROL
