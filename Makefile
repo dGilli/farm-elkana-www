@@ -64,11 +64,12 @@ build:
 	npm --prefix $(APP_DIR) run build
 
 ## run: run the application
-.PHONY: run
+.PHONY: dev run
+dev: run
 run: update
 	npm --prefix $(APP_DIR) run dev
 
-## run: preview the built application
+## preview: preview the built application
 .PHONY: preview
 preview:
 	npm --prefix $(APP_DIR) run preview
